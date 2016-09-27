@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project Parallal -->
+<!-- Saved: 2016-09-14, 04:07:14 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{0ea9542a-bfdb-4d16-be94-0b13b25b06cd}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2016-09-13, 22:28:05</Created>
+    <Resource>
+      <Filename>parallal.py</Filename>
+      <Linenumber>37</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
